@@ -2,7 +2,7 @@
 The easiest way to install CP2K is by Docker container.
 
 Step 1:
-Update your linux system
+Update your Linux system
 ```shell
 sudo apt-get update
 ```
