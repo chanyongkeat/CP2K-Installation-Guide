@@ -1,5 +1,5 @@
 # CP2K Installation Steps
-The easiest way to install CP2K is by Docker container.
+The easiest way to install CP2K is by [Docker container](https://en.wikipedia.org/wiki/Docker_(software)).
 
 ## Step 1:
 Update your Linux system
